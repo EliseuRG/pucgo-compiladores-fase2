@@ -105,6 +105,3 @@ Dúvidas podem ser enviadas para:
 
 **Atenção:** O projeto segue as diretrizes acadêmicas rigorosas. Qualquer prática de plágio resultará em **anulação imediata** do trabalho.
 
----
-
-Isso deve cobrir os requisitos principais do projeto e criar uma base profissional para o README. Se precisar de mais detalhes ou ajustes, é só avisar! 😊
