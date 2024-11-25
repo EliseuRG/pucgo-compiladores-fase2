@@ -100,8 +100,9 @@ Todos os materiais utilizados para o desenvolvimento estão listados na document
 
 ## Contato
 Dúvidas podem ser enviadas para:
-- **Chat Teams:** Durante o horário de atendimento.
-- **Presencial:** Quartas-feiras, das 8h às 10h, na PUC.
+- **Nome:** Eliseu Rodrigues Guimarães
+- **Email:** eliseu.rguimaraes@gmail.com
+- **GitHub:** https://github.com/eurodriguesg
 
 **Atenção:** O projeto segue as diretrizes acadêmicas rigorosas. Qualquer prática de plágio resultará em **anulação imediata** do trabalho.
 
